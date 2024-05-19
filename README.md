@@ -1,1 +1,1 @@
-run the kivy application with the PHQ9 dataset from OSF and facial emotion dataset from kaggle (ExpF-W) or for direct model files mail this id : mjoanish@gmail.com
+Train the CNN model(improved.py) with PHQ-9 dataset (OSF) and Facial emotion dataset (ExpF-W) and use the model file to run the kivy app (or) mail me for the model files id: mjoanish@gmail.com
